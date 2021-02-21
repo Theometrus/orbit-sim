@@ -1,9 +1,6 @@
 # Preface
 This project was a delve into the world of multithreading in C. It's a solar system simulator featuring real-world gravitational equations. 
 
-<br>
-<br>
-
 ## Demonstration
 ![](./gifs/orbits.gif)
 
